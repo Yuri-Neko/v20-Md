@@ -25,7 +25,7 @@ global.APIKeys = { // APIKey Here
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://apikey-bear3.herokuapp.com': 'https://pastelink.net/v20Md',
+  'https://apikey-bear3.herokuapp.com': 'KingOfBear',
   'https://viko-api.herokuapp.com': 'vinko',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
@@ -34,7 +34,7 @@ lolkey = 'rey2k21'
 zekskey = 'apivinz'
 xteamkey = 'https://pastelink.net/v20Md'
 leyskey = 'dappakntlll'
-bearkey = 'https://pastelink.net/v20Md'
+bearkey = 'KingOfBear'
 ApiiKey = 'https://pastelink.net/v20Md'
 vinkey = 'vinko'
 
